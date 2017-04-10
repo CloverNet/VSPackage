@@ -1,0 +1,2 @@
+# VSPackage
+VisualStudio Package Extension
